@@ -1,408 +1,245 @@
 <div align="center">
 
-# J A M S H I D C O D E
-
-### FRONTEND DEVELOPER · JAVASCRIPT DEVELOPER
-
-`BUILDING DIGITAL EXPERIENCES`
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=42&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=80&lines=JAMSHIDCODE" />
 
 <br>
 
-[ GitHub ] · [ Projects ] · [ Contact ]
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=2200&pause=700&color=94A3B8&center=true&vCenter=true&width=800&height=50&lines=FRONTEND+DEVELOPER;JAVASCRIPT+DEVELOPER;WEB+DEVELOPER;FUTURE+FULL-STACK+DEVELOPER" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=JamshidCode&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" />
+
+<br><br>
+
+<a href="https://github.com/JamshidCode">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
+</a>
+
+<a href="https://github.com/JamshidCode?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=codeproject&logoColor=00E5FF" />
+</a>
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-## 01 — ABOUT
+## <img src="https://img.shields.io/badge/01-ABOUT%20ME-00E5FF?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
 ### JAMSHID ABDUVALIYEV
 
-I am a developer focused on building modern and useful web experiences.
+**Frontend Developer · JavaScript Developer**
 
-My current focus is **Frontend Development** and **JavaScript**.
-
-I believe that every project is an opportunity to learn something new, improve my skills and create something better.
-
-</td>
-
-<td width="50%">
-
-### CURRENT FOCUS
-
-`JavaScript`
-
-`Web Development`
-
-`UI / UX`
-
-`Responsive Design`
-
-`Git & GitHub`
-
-### DIRECTION
-
-`Frontend → Full-Stack`
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 02 — TECHNOLOGY
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### FRONTEND
-
-HTML  
-CSS  
-JavaScript
-
-</td>
-
-<td align="center" width="25%">
-
-### TOOLS
-
-VS Code  
-Git  
-GitHub
-
-</td>
-
-<td align="center" width="25%">
-
-### DESIGN
-
-Figma  
-UI  
-UX
-
-</td>
-
-<td align="center" width="25%">
-
-### LEARNING
-
-React  
-Node.js  
-APIs
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 03 — DEVELOPMENT STACK
+I build modern websites, interactive interfaces and practical projects while continuously improving my development skills.
 
 <br>
 
-`HTML` ━━━━━━━━━━━━━━━━━━
-
-`CSS` ━━━━━━━━━━━━━━━━━━
-
-`JavaScript` ━━━━━━━━━━━━━━━━
-
-`Git` ━━━━━━━━━━━━━━━━━━━
-
-`GitHub` ━━━━━━━━━━━━━━━━━
-
-`VS Code` ━━━━━━━━━━━━━━━━
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=1800&pause=700&color=00E5FF&center=true&vCenter=true&width=750&height=40&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+IMPROVE;TURNING+IDEAS+INTO+REAL+PROJECTS;CODE+WITH+PURPOSE" />
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-## 04 — WHAT I BUILD
+## <img src="https://img.shields.io/badge/02-TECH%20STACK-00E5FF?style=for-the-badge&labelColor=0D1117" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&theme=dark" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,mongodb&theme=dark" />
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
+<br>
 
-### WEB INTERFACES
+---
 
-Modern websites with clean layouts, responsive structure and interactive elements.
+<div align="center">
 
-**Focus**
+## <img src="https://img.shields.io/badge/03-EXPERTISE-00E5FF?style=for-the-badge&labelColor=0D1117" />
 
-`Responsive` · `Modern` · `Interactive`
+<br><br>
 
-</td>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
-<td width="50%">
+<br>
+
+<img src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/FIGMA-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## <img src="https://img.shields.io/badge/04-CURRENTLY%20LEARNING-00E5FF?style=for-the-badge&labelColor=0D1117" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=1600&pause=600&color=00E5FF&center=true&vCenter=true&width=700&height=45&lines=JAVASCRIPT;DOM+%26+EVENTS;JSON+%26+APIs;MODERN+FRONTEND;REACT" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## <img src="https://img.shields.io/badge/05-WHAT%20I%20BUILD-00E5FF?style=for-the-badge&labelColor=0D1117" />
+
+<br><br>
+
+### WEB DEVELOPMENT
+
+Modern responsive websites with clean layouts and interactive elements.
+
+<br>
 
 ### JAVASCRIPT PROJECTS
 
-Small applications and experiments created while developing real JavaScript skills.
+Interactive applications, DOM projects, JSON experiments and practical JavaScript projects.
 
-**Focus**
-
-`Logic` · `DOM` · `JSON` · `API`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+<br>
 
 ### UI / UX
 
-Simple, clean and functional interfaces designed with attention to visual hierarchy.
+Clean interfaces focused on structure, usability and visual hierarchy.
 
-**Focus**
+<br>
 
-`Layout` · `Typography` · `Usability`
+### FUTURE
 
-</td>
+Frontend → Backend → Full-Stack
 
-<td width="50%">
+</div>
 
-### FUTURE PROJECTS
-
-Larger applications built as my development skills continue to grow.
-
-**Direction**
-
-`Frontend` → `Backend` → `Full-Stack`
-
-</td>
-</tr>
-</table>
+<br>
 
 ---
 
 <div align="center">
 
-## 05 — CURRENTLY LEARNING
-
-<br>
-
-`JAVASCRIPT`
-
-↓
-
-`DOM & EVENTS`
-
-↓
-
-`JSON & APIs`
-
-↓
-
-`MODERN FRONTEND`
-
-↓
-
-`REACT`
-
-</div>
-
----
-
-<div align="center">
-
-## 06 — DEVELOPER MINDSET
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 01
-
-**LEARN**
-
-Understand the fundamentals.
-
-</td>
-
-<td align="center" width="25%">
-
-### 02
-
-**BUILD**
-
-Turn knowledge into projects.
-
-</td>
-
-<td align="center" width="25%">
-
-### 03
-
-**IMPROVE**
-
-Find weaknesses and fix them.
-
-</td>
-
-<td align="center" width="25%">
-
-### 04
-
-**REPEAT**
-
-Keep moving forward.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-`LEARN → BUILD → FAIL → FIX → IMPROVE → REPEAT`
-
-</div>
-
----
-
-<div align="center">
-
-## 07 — PROJECT PHILOSOPHY
-
-<br>
-
-> **Don't just write code.**
->
-> **Understand it.**
->
-> **Improve it.**
->
-> **Build something people can use.**
-
-</div>
-
----
-
-<div align="center">
-
-## 08 — GITHUB
-
-</div>
-
-<table>
-<tr>
-<td align="center">
-
-**PROFILE**
-
-`JamshidCode`
-
-</td>
-
-<td align="center">
-
-**MAIN FIELD**
-
-`Web Development`
-
-</td>
-
-<td align="center">
-
-**PRIMARY LANGUAGE**
-
-`JavaScript`
-
-</td>
-
-<td align="center">
-
-**GOAL**
-
-`Full-Stack Developer`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-[ **VIEW MY PROJECTS →** ](https://github.com/JamshidCode?tab=repositories)
-
-</div>
-
----
-
-<div align="center">
-
-## 09 — CONTACT
-
-<br>
-
-**GITHUB**
-
-[github.com/JamshidCode](https://github.com/JamshidCode)
+## <img src="https://img.shields.io/badge/06-GITHUB%20ANALYTICS-00E5FF?style=for-the-badge&labelColor=0D1117" />
 
 <br><br>
 
-**TELEGRAM**
+<img src="https://github-readme-stats.vercel.app/api?username=JamshidCode&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=CBD5E1&rank_icon=github" width="48%" />
 
-[YOUR TELEGRAM](https://t.me/@Jamshidabduvaliyev)
-
-<br><br>
-
-**INSTAGRAM**
-
-[YOUR INSTAGRAM](https://instagram.com/abduvaliyev_1307)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamshidCode&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=CBD5E1" width="40%" />
 
 <br><br>
 
-**EMAIL**
-[YOUR EMAIL](mailto:jamshidabduvaliyevn@gmail.com)
+<img src="https://streak-stats.demolab.com?user=JamshidCode&theme=transparent&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" />
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-## 10 — FINAL
+## <img src="https://img.shields.io/badge/07-DEVELOPER%20MINDSET-00E5FF?style=for-the-badge&labelColor=0D1117" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=23&duration=1800&pause=700&color=00E5FF&center=true&vCenter=true&width=750&height=50&lines=LEARN.;BUILD.;BREAK.;FIX.;IMPROVE.;REPEAT." />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BUILD-0D1117?style=for-the-badge&logo=rocket&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/LEARN-0D1117?style=for-the-badge&logo=bookstack&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/IMPROVE-0D1117?style=for-the-badge&logo=target&logoColor=00E5FF" />
+
+</div>
 
 <br>
 
-### `CODE IS NOT JUST A SKILL.`
+---
 
-### `IT IS A WAY TO CREATE.`
+<div align="center">
+
+## <img src="https://img.shields.io/badge/08-PROJECTS-00E5FF?style=for-the-badge&labelColor=0D1117" />
+
+<br><br>
+
+<a href="https://github.com/JamshidCode?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=2000&pause=800&color=94A3B8&center=true&vCenter=true&width=700&height=40&lines=MORE+PROJECTS+ARE+COMING;BUILDING+SOMETHING+NEW..." />
+
+</div>
 
 <br>
 
-`JAMSHIDCODE`
+---
+
+<div align="center">
+
+## <img src="https://img.shields.io/badge/09-CONTACT-00E5FF?style=for-the-badge&labelColor=0D1117" />
+
+<br><br>
+
+<a href="https://github.com/JamshidCode">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
+</a>
+
+<a href="https://t.me/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/TELEGRAM-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=2000&pause=700&color=00E5FF&center=true&vCenter=true&width=700&height=45&lines=LET'S+BUILD+SOMETHING+GREAT;OPEN+TO+NEW+IDEAS;THANKS+FOR+VISITING" />
+
+</div>
 
 <br>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JAMSHIDCODE-00E5FF?style=for-the-badge&labelColor=0D1117" />
+
+<br><br>
 
 **BUILD · LEARN · IMPROVE**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=900&color=64748B&center=true&vCenter=true&width=650&height=40&lines=ONE+LINE+OF+CODE+AT+A+TIME." />
 
 </div>
