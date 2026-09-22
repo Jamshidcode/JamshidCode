@@ -208,7 +208,7 @@ Frontend → Backend → Full-Stack
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
 </a>
 
-<a href="https://t.me/@Jamshidabduvaliyev">
+<a href="https://t.me/Jamshidabduvaliyev">
 <img src="https://img.shields.io/badge/TELEGRAM-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
 </a>
 
