@@ -208,15 +208,15 @@ Frontend → Backend → Full-Stack
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
 </a>
 
-<a href="https://t.me/YOUR_USERNAME">
+<a href="https://t.me/@Jamshidabduvaliyev">
 <img src="https://img.shields.io/badge/TELEGRAM-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://instagram.com/abduvaliyev_1307">
 <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:jamshidabduvaliyevn1@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
