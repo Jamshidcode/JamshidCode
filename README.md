@@ -134,6 +134,461 @@ Frontend → Backend → Full-Stack
 
 </div>
 
+# 🐍 NEON SNAKE
+
+<div align="center">
+
+# 🐍 Neon Snake Animation
+
+<p>
+  <b>Watch the snake move through the neon world!</b>
+</p>
+
+<br>
+
+<svg width="700" height="420" viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+```
+<!-- Background -->
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#050816"/>
+  <stop offset="50%" stop-color="#0b1230"/>
+  <stop offset="100%" stop-color="#12051c"/>
+</linearGradient>
+
+<!-- Snake gradient -->
+<linearGradient id="snake" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#72ff45"/>
+  <stop offset="50%" stop-color="#35ffe1"/>
+  <stop offset="100%" stop-color="#00a98f"/>
+</linearGradient>
+
+<!-- Food gradient -->
+<radialGradient id="food">
+  <stop offset="0%" stop-color="#ffffff"/>
+  <stop offset="30%" stop-color="#ff8ad5"/>
+  <stop offset="100%" stop-color="#ff1493"/>
+</radialGradient>
+
+<!-- Glow -->
+<filter id="glow">
+  <feGaussianBlur stdDeviation="7" result="blur"/>
+  <feMerge>
+    <feMergeNode in="blur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+
+<filter id="foodGlow">
+  <feGaussianBlur stdDeviation="5" result="blur"/>
+  <feMerge>
+    <feMergeNode in="blur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+
+<!-- Grid -->
+<pattern
+  id="grid"
+  width="35"
+  height="35"
+  patternUnits="userSpaceOnUse"
+>
+  <path
+    d="M 35 0 L 0 0 0 35"
+    fill="none"
+    stroke="#35ffe1"
+    stroke-opacity="0.08"
+  />
+</pattern>
+```
+
+  </defs>
+
+  <!-- GAME BACKGROUND -->
+
+<rect
+ width="700"
+ height="420"
+ rx="30"
+ fill="url(#bg)"
+/>
+
+<rect
+ x="20"
+ y="20"
+ width="660"
+ height="380"
+ rx="22"
+ fill="url(#grid)"
+/>
+
+  <!-- Background glow -->
+
+<circle
+cx="100"
+cy="100"
+r="90"
+fill="#00ffd5"
+opacity="0.08"
+
+>
+
+```
+<animate
+```
+
+```
+  attributeName="r"
+  values="70;110;70"
+  dur="4s"
+  repeatCount="indefinite"
+/>
+```
+
+  </circle>
+
+<circle
+cx="600"
+cy="320"
+r="100"
+fill="#ff1493"
+opacity="0.07"
+
+>
+
+```
+<animate
+```
+
+```
+  attributeName="r"
+  values="80;120;80"
+  dur="5s"
+  repeatCount="indefinite"
+/>
+```
+
+  </circle>
+
+  <!-- TITLE -->
+
+<text
+x="350"
+y="55"
+text-anchor="middle"
+fill="#35ffe1"
+font-family="Arial"
+font-size="25"
+font-weight="bold"
+letter-spacing="5"
+filter="url(#glow)"
+
+>
+
+```
+NEON SNAKE
+```
+
+  </text>
+
+  <!-- FOOD -->
+
+  <g filter="url(#foodGlow)">
+
+```
+<circle
+  cx="570"
+  cy="115"
+  r="10"
+  fill="url(#food)"
+>
+  <animate
+    attributeName="r"
+    values="8;13;8"
+    dur="0.8s"
+    repeatCount="indefinite"
+  />
+</circle>
+
+<circle
+  cx="570"
+  cy="115"
+  r="18"
+  fill="none"
+  stroke="#ff3cac"
+  stroke-opacity="0.35"
+>
+  <animate
+    attributeName="r"
+    values="15;28;15"
+    dur="1.2s"
+    repeatCount="indefinite"
+  />
+  <animate
+    attributeName="opacity"
+    values="0.7;0;0.7"
+    dur="1.2s"
+    repeatCount="indefinite"
+  />
+</circle>
+```
+
+  </g>
+
+  <!-- SNAKE -->
+
+  <g filter="url(#glow)">
+
+```
+<!-- Snake body -->
+
+<path
+  d="
+    M 150 290
+    C 210 230, 280 230, 330 280
+    C 380 330, 450 330, 510 270
+    C 550 230, 570 180, 570 115
+  "
+  fill="none"
+  stroke="#102e2a"
+  stroke-width="30"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  opacity="0.8"
+/>
+
+<path
+  d="
+    M 150 290
+    C 210 230, 280 230, 330 280
+    C 380 330, 450 330, 510 270
+    C 550 230, 570 180, 570 115
+  "
+  fill="none"
+  stroke="url(#snake)"
+  stroke-width="21"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-dasharray="40 25"
+>
+  <animate
+    attributeName="stroke-dashoffset"
+    from="0"
+    to="-65"
+    dur="1s"
+    repeatCount="indefinite"
+  />
+</path>
+
+<!-- Moving head -->
+
+<circle
+  cx="570"
+  cy="115"
+  r="17"
+  fill="url(#snake)"
+>
+  <animateMotion
+    dur="5s"
+    repeatCount="indefinite"
+    rotate="auto"
+    path="
+      M 0 0
+      C -20 60, -20 100, -60 155
+      C -100 210, -180 215, -240 165
+      C -300 115, -370 115, -420 175
+    "
+  />
+</circle>
+```
+
+  </g>
+
+  <!-- EYES -->
+
+<circle
+cx="576"
+cy="109"
+r="3"
+fill="#02120f"
+
+>
+
+```
+<animateMotion
+```
+
+```
+  dur="5s"
+  repeatCount="indefinite"
+  path="
+    M 0 0
+    C -20 60, -20 100, -60 155
+    C -100 210, -180 215, -240 165
+    C -300 115, -370 115, -420 175
+  "
+/>
+```
+
+  </circle>
+
+<circle
+cx="576"
+cy="121"
+r="3"
+fill="#02120f"
+
+>
+
+```
+<animateMotion
+```
+
+```
+  dur="5s"
+  repeatCount="indefinite"
+  path="
+    M 0 0
+    C -20 60, -20 100, -60 155
+    C -100 210, -180 215, -240 165
+    C -300 115, -370 115, -420 175
+  "
+/>
+```
+
+  </circle>
+
+  <!-- SCORE -->
+
+<text
+x="55"
+y="365"
+fill="#71809e"
+font-family="Arial"
+font-size="12"
+letter-spacing="3"
+
+>
+
+```
+SCORE
+```
+
+  </text>
+
+<text
+x="55"
+y="390"
+fill="#35ffe1"
+font-family="Arial"
+font-size="24"
+font-weight="bold"
+
+>
+
+```
+999
+```
+
+  </text>
+
+  <!-- STATUS -->
+
+<circle
+cx="615"
+cy="365"
+r="5"
+fill="#72ff45"
+
+>
+
+```
+<animate
+```
+
+```
+  attributeName="opacity"
+  values="1;0.3;1"
+  dur="1s"
+  repeatCount="indefinite"
+/>
+```
+
+  </circle>
+
+<text
+x="630"
+y="370"
+fill="#72ff45"
+font-family="Arial"
+font-size="12"
+font-weight="bold"
+
+>
+
+```
+PLAYING
+```
+
+  </text>
+
+</svg>
+
+<br>
+
+## 🎮 Snake Game
+
+**Classic Snake + Neon Animation**
+
+| Feature           | Status |
+| ----------------- | ------ |
+| 🐍 Snake          | ✅      |
+| ✨ Animation       | ✅      |
+| 🌈 Neon effect    | ✅      |
+| 🍎 Food           | ✅      |
+| 🏆 Score          | ✅      |
+| ⚡ Smooth movement | ✅      |
+
+<br>
+
+### 🕹️ Controls
+
+```text
+⬆️  UP
+⬇️  DOWN
+⬅️  LEFT
+➡️  RIGHT
+```
+
+### 🎯 Goal
+
+> 🐍 Eat the food, grow your snake and get the highest score!
+
+<br>
+
+### ⚡ Technologies
+
+```text
+SVG
+SVG Animation
+HTML
+CSS
+```
+
+---
+
+### ⭐ Neon Snake
+
+<p align="center">
+  <b>Made with ❤️ and lots of code 🐍</b>
+</p>
+
+</div>
+
+
 <br>
 
 ---
